@@ -1,8 +1,3 @@
-# Roblox-Scripts
-
-This is all the roblox scripts I found and putting in one place for everyone to use 
-If this go down Join the discord So you can still have all the scripts in one place 
-If this go down I Will make a new account and post them and send the link into the server 
+This is all of the ROBLOX scripts I've found and put in one place for everyone to use, If this goes down, join the discord so you can still have all the scripts in one place, If this go down, I will make a new account and post them to then send the link into the server.
 
 Server Invite - https://discord.gg/GGFum47f38
-

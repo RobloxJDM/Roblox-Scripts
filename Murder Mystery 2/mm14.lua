@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/scripts/main/Mm2HoldHub.lua", true))()
